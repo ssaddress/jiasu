@@ -18,7 +18,7 @@
 {"server":"103.39.212.207","server_port":29375,"password":"xRtHDU55VDDx4eN","method":"aes-256-gcm","remarks":"直连深圳26","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.39.213.208","server_port":34614,"password":"fk8iaM16pnai3VJ","method":"aes-256-gcm","remarks":"直连深圳27","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 
-{"server":"103.39.210.221","server_port":35580,"password":"F4G2uA8QBxWAfgF","method":"aes-256-gcm","remarks":"直连深圳28","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.39.210.243","server_port":35580,"password":"F4G2uA8QBxWAfgF","method":"aes-256-gcm","remarks":"直连深圳28","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 
 {"server":"103.39.216.12","server_port":39765,"password":"hAWnvzpQGkAuWx4","method":"aes-256-gcm","remarks":"直连深圳29","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.39.209.111","server_port":49936,"password":"wo69cGXnJxtjfHf","method":"aes-256-gcm","remarks":"直连深圳30","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
